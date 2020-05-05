@@ -1,0 +1,160 @@
+body {
+  margin: 0;
+}
+
+img {
+  width: 100%;
+}
+
+h3 {
+  color: white;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+div {
+  text-align: center;
+}
+
+.container {
+  position: relative;
+}
+
+.class_room_1_left {
+  background-color: #FF8000;
+  width: 149.5px;
+  height: 132px;
+  position: absolute;
+  left: 330px;
+  top: 12.3px;
+}
+
+.class_room_1_right {
+  background-color: #FF8000;
+  width: 164.2px;
+  height: 136.5px;
+  position: absolute;
+  left: 648.4px;
+  top: 10px;
+}
+
+.class_room_2_left {
+  background-color: #FF8000;
+  width: 150px;
+  height: 145.2px;
+  position: absolute;
+  left: 329px;
+  top: 153.3px;
+}
+
+.class_room_2_right {
+  background-color: #FF8000;
+  width: 160px;
+  height: 139px;
+  position: absolute;
+  left: 649.5px;
+  top: 155.5px;
+}
+
+.class_room_3 {
+  background-color: #FF8000;
+  width: 151px;
+  height: 138px;
+  position: absolute;
+  left: 328px;
+  top: 306.5px;
+}
+
+.wash_room {
+  background-color: brown;
+  width: 151px;
+  height: 119px;
+  position: absolute;
+  left: 328.2px;
+  top: 551px;
+}
+
+.open_space {
+  background-color: #89e543;
+  width: 266px;
+  height: 232px;
+  position: absolute;
+  left: 645.4px;
+  top: 553.5px;
+}
+
+.stairs_1 {
+  background-color: red;
+  width: 152px;
+  height: 86.3px;
+  position: absolute;
+  left: 327px;
+  top: 453.4px;
+}
+
+.stairs_1_button {
+  position: absolute;
+  left: 28px;
+  bottom: 5px;
+}
+
+.stairs_2 {
+  background-color: red;
+  width: 92.5px;
+  height: 139.5px;
+  position: absolute;
+  left: 741px;
+  top: 877.4px;
+}
+
+.stairs_2_button {
+  width: 60%;
+  position: absolute;
+  left: 20px;
+  bottom: 20px;
+}
+
+.lab {
+  background-color: #4285F4;
+  width: 164.5px;
+  height: 235.5px;
+  position: absolute;
+  left: 648.5px;
+  top: 305.5px;
+}
+
+.examination_section {
+  background-color: #4285F4;
+  width: 179px;
+  height: 142px;
+  position: absolute;
+  left: 845.5px;
+  top: 875.8px;
+}
+
+.academic_section {
+  background-color: #4285F4;
+  width: 240px;
+  height: 138px;
+  position: absolute;
+  left: 1033.5px;
+  top: 877.5px;
+}
+
+.conference_room {
+  background-color: #4285F4;
+  width: 354px;
+  height: 224px;
+  position: absolute;
+  left: 922px;
+  top: 561.5px;
+}
+
+.staff_room {
+  background-color: #4285F4;
+  width: 152px;
+  height: 242px;
+  position: absolute;
+  left: 327.5px;
+  top: 680px;
+}
